@@ -95,7 +95,9 @@ section{
     display:flex;
     justify-content: center;
 }
-
+section nav{
+    width: 300px;
+}
 /* ARTICLES */
 .article{
     width:25%;
